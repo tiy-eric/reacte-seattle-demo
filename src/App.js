@@ -23,7 +23,7 @@ class App extends Component {
             <th>name</th>
             <th>nickname</th>
           </tr>
-          <Tablerow name="eric" nickname="douche" />
+          <Tablerow name="eric" nickname="Mr. Schwartz" />
           <Tablerow  />
           <Tablerow name="Terri" nickname="McTerrison" />
           </table>
