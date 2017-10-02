@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "7"
+deploy:
+  provider: heroku
+  api_key:
+    secure: C+quoKbg7xvMQsAnn1aSNhzWpxFMYeEDk2dKwVWjcZGFu++AQJvsXitV5ybqpa1X1JkbaXXea6A7DYp90iymwWntnpFnG2GgjqJvmMA8qxKIontqRb6OBDK+QkLomSz2iAF1Y6UdUgzHUP9gX/rqdoVlcwrWklkDxx0L6GgP/+APULj3J0KR2bkrqfjn8lFqB+qy4bD6FznNX68wm5P/ww/9R+7maA0baBBEXQKUogk2GvICCOOoeAByDUfbZaRX+BLYopuAcADpJ4Czj/RYs5IyL+CDeGf5OGkVLxOqVkfsmpZ1V8G8nwhbj20/3SB52JV5Qw3WA3I290bP5a4dz6pa7iwkWk87h4BF63y2X4t3aDyyOARMiYN1VhSbM7uRN//ervgFLDl9lS9h1L+E4x0fYZVXsLed7FUU/lO//Vpj3XOHzsMDD5aua3sPwpu90L6zsJqIOUidnw+mD4yFNinIbpq//gYJCq1eVrYdM60+4D39LtBl/TkFut2Yx9Kot0nkBbR97feBDVKhBUc4SdNG+zQRmbXAMuxdIT0+PUcko7GSa8RvA1jr9d4SpjBvbpiWlD7dvKHrfVKLqPBU0zoiJ2NayOX0xfC7hXHe5Egp/MYj9fkXiqxzRDGvcuwHcg3fp54A6zLIAg/nse1GJQwgh3MXkUuMNnhyjxfqZxY=
+  app: murmuring-river-55388
